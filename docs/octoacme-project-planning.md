@@ -22,8 +22,10 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Acceptance criteria:
 - Priority:
 - Estimate:
-- Owner:
+- **Owner:** *(required — every item must have a named owner)*
 - Related docs/links:
+
+> Use the [Decision Log Template](./templates/decision-log-template.md) to record decisions that affect scope or approach, and the [Risk Register Template](./templates/risk-register-template.md) to track risks identified during planning.
 
 ## Sprint / Iteration Planning
 - Timebox planning to agreed sprint length
