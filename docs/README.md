@@ -20,7 +20,7 @@ Projects follow a five-stage lifecycle: **Initiation → Planning → Execution 
 |---|---|
 | Project charter / one-pager | Problem statement, SMART goal, success metrics, stakeholders, timeline, risks |
 | Roadmap & release plan | Milestone sequencing and scope commitments |
-| Sprint / iteration backlog | Prioritised, estimated work items for the current cycle |
+| Sprint / iteration backlog | Prioritized, estimated work items for the current cycle |
 | Acceptance criteria & Definition of Done | Shared quality bar for every item |
 | Risk register | Impact, likelihood, owner, mitigation, and current status |
 | Retrospective notes & action items | Learnings converted to owned backlog items with due dates |
@@ -65,4 +65,12 @@ The team maintains a **single source of truth** for project status. The standard
 - End-to-end smoke tests for critical flows before each release.
 - Security scanning in CI; manual QA for feature acceptance when appropriate.
 
-**Release gates:** acceptance criteria met · CI/security checks passing · release notes and rollback plan prepared · staging smoke tests passed · production deployment (prefer automated pipelines) · post-deploy verification · stakeholder and support announcements · retrospective scheduled.
+**Release gates:**
+- Acceptance criteria met
+- CI/security checks passing
+- Release notes and rollback plan prepared
+- Staging smoke tests passed
+- Production deployment (prefer automated pipelines)
+- Post-deploy verification
+- Stakeholder and support announcements
+- Retrospective scheduled
