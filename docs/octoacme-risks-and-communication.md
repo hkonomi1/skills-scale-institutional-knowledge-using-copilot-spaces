@@ -12,6 +12,9 @@ Maintain a simple table with:
 - Owner
 - Mitigation plan
 - Status
+- Last Updated
+
+> Use the reusable [Risk Register Template](./templates/risk-register-template.md) to track risks. Update the register at every weekly delivery sync.
 
 ## Risk Lifecycle
 - Identify: during planning and ongoing execution
@@ -30,6 +33,8 @@ Weekly Status Template:
 - Next steps:
 - Risks & blockers:
 - Ask / decisions needed:
+
+> Use the reusable [Weekly Status Update Template](./templates/weekly-status-update-template.md) for consistent status reporting, and the [Decision Log Template](./templates/decision-log-template.md) to capture key decisions.
 
 Incident Communication
 - Triage summary

@@ -27,6 +27,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Track velocity and burndown
 - Monitor success metrics identified in the Project One-pager
 - Use dashboards for key signals (errors, latency, usage)
+- Update the [Risk Register](./templates/risk-register-template.md) at every weekly delivery sync
+- Capture key architectural, scope, or process decisions in the [Decision Log](./templates/decision-log-template.md)
 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup
